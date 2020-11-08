@@ -1,5 +1,5 @@
 FROM python:3.7-alpine
-MAINTAINER moha elbuni
+LABEL maintainer="elbunim@gmail.com"
 
 ENV PYTHONUNBUFFERED 1
 
